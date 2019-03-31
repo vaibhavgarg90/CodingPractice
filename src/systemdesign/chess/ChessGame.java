@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Main class that reads the input file containing initial chess
+ * HashMap class that reads the input file containing initial chess
  * board configuration and the moves.
  * The chess board is initialized with the state given in the
  * input file and all the moves are validated.
